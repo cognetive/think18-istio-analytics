@@ -1,5 +1,5 @@
 
-# This repository holds content for demo "Site Reliability Engineering, Troubleshooting, and Canary Deployments with Istio"
+# This repository holds content for demo for Skydive and Istio-Analytics - "Site Reliability Engineering, Troubleshooting, and Canary Deployments with Istio"
 
 ## The demo was presented as part of IBM's business and technology conference |  [IBM Think 18'](https://www.ibm.com/events/think/)
 
